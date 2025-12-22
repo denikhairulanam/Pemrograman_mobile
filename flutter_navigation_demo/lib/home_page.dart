@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_navigation_demo/profile_page.dart';
-import 'package:flutter_navigation_demo/settings_page.dart';
+
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -82,9 +82,9 @@ class HomeTab extends StatelessWidget {
                 context,
                 MaterialPageRoute(
                   builder: (context) => ProfilePage(
-                    userName: 'John Doe',
-                    email: 'john.doe@example.com',
-                    age: 25,
+                    userName: 'Deni khairul anam',
+                    email: 'deni@gmail.com',
+                    age: 20,
                   ),
                 ),
               );

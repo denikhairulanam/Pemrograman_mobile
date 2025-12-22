@@ -15,8 +15,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   intl: ^0.18.1
   image_picker: ^1.0.4
-  path_provider: ^2.1.1  # Tambah package path_provider
-  path: ^1.8.3           # Tambah package path
+  path_provider: ^2.1.1 
+  path: ^1.8.3          
 
 dev_dependencies:
   flutter_test:
